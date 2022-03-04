@@ -1,14 +1,14 @@
 # first-program
-this program is a very simple program written in java and C
+This program is a very simple program written in java and C
 
 
-it is not intended for general use
+It is not intended for general use
 
 
-to run:
+To run:
 change directory: " $ cd first-program/ "
 run " $ bash program.sh" to exacute the program
 
 
-bug fix 4/3/22 - fixed scripting error
+Bug fix 4/3/22 - fixed scripting error
 
