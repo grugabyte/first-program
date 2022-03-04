@@ -1,5 +1,5 @@
 # first-program
-this program is a very simple password manager
+this program is a very simple program written in java and C
 
 
 it is not intended for general use
