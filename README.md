@@ -1,4 +1,4 @@
-# first-java-program
+# first-program
 this program is a very simple password manager
 
 
