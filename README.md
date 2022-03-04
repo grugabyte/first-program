@@ -4,7 +4,11 @@ this program is a very simple password manager
 
 it is not intended for general use
 
+
+to run:
+change directory: " $ cd first-program/ "
 run " $ bash program.sh" to exacute the program
 
 
-currently fixing shell scripting errors
+bug fix 4/3/22 - fixed scripting error
+
