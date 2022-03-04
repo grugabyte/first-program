@@ -10,5 +10,4 @@ change directory: " $ cd first-program/ "
 run " $ bash program.sh" to exacute the program
 
 
-Bug fix 4/3/22 - fixed scripting error
-
+Bug fix 4/3/22 - fixed scripting error.
